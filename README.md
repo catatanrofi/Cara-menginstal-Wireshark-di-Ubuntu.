@@ -14,7 +14,15 @@
 <p>[STEP-3] Sekarang Anda harus menambahkan pengguna ke grup Wireshark untuk menangkap paket seperti yang dilakukan pengguna biasa.</p>
 <p>$ sudo usermod -a -G wireshark $USER</p><hr>
 <p>[STEP-4] Sekarang, kita akan mengubah izin file 'dumcap'.</p>
-<p>$ sudo chgrp wireshark /usr/bin/dumpcap</p><hr>
+<p>$ sudo chgrp wireshark /usr/bin/dumpcap</p>
+<p>$ sudo chmod 750 /usr/bin/dumpcap</p>
+<p>$ sudo setcap cap_net_raw,cap_net_admin=eip /usr/bin/dumpcap</p>
+<p>$ sudo getcap /usr/bin/dumpcap</p>
+<p>$ sudo wireshark</p><hr>
+<p>Anda juga dapat membuka Wireshark dengan mencarinya secara manual di bilah pencarian 'Aktivitas'.</p>
+
+
+
 
 
 

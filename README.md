@@ -10,5 +10,6 @@
 <h3>Mengkonfigurasi Wireshark di Ubuntu 20.04</h3>
 <p>[STEP-1] Pilih opsi 'yes' untuk mengizinkan non-pengguna super menangkap paket.</p><hr>
 <p>[STEP-2] Verifikasi keberadaan Wireshark dengan menggunakan perintah yang diberikan di bawah ini.</p>
-<p>$ wireshark --version</p>
+<p>$ wireshark --version</p><hr>
+<p>[STEP-3] Sekarang Anda harus menambahkan pengguna ke grup Wireshark untuk menangkap paket seperti yang dilakukan pengguna biasa.</p>
 

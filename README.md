@@ -18,11 +18,11 @@
 <p>$ sudo chmod 750 /usr/bin/dumpcap</p>
 <p>$ sudo setcap cap_net_raw,cap_net_admin=eip /usr/bin/dumpcap</p>
 <p>$ sudo getcap /usr/bin/dumpcap</p>
-<p style="background-color:LightGray;">$ sudo wireshark</p><hr>
+<p>$ sudo wireshark</p><hr>
 <p>Anda juga dapat membuka Wireshark dengan mencarinya secara manual di bilah pencarian 'Aktivitas'.</p><hr>
 <br>
 <br>
-<p>SEMOGA BERMANFAAT</p>
+<p><b>SEMOGA BERMANFAAT</b></p>
 
 
 

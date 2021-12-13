@@ -6,5 +6,5 @@
 <p>$ sudo apt-get update -y</p>
 <p>Masukkan kata sandi Anda untuk mengizinkan pembaruan paket.</p><hr>
 <p>[STEP-4] Gunakan repositori untuk menginstal Wireshark.</p>
-<p>$ apt-get install wireshark</p>
+<p>$ apt-get install wireshark</p><hr>
 <p>Pilih opsi "yes"</p>

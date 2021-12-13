@@ -8,4 +8,5 @@
 <p>[STEP-4] Gunakan repositori untuk menginstal Wireshark.</p>
 <p>$ apt-get install wireshark</p><hr>
 <h3>Mengkonfigurasi Wireshark di Ubuntu 20.04</h3>
+<p>[STEP-1a] Pilih opsi 'ya' untuk mengizinkan non-pengguna super menangkap paket.</p>
 <p>Pilih opsi "yes"</p>

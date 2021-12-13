@@ -1,4 +1,4 @@
-# Cara menginstal Wireshark di Ubuntu.<hr>
+# Cara menginstal Wireshark di Ubuntu.
 ### Instal Wireshark di Ubuntu 20.04
 
 <p>[STEP-1] Pertama-tama, Buka terminal dengan mencarinya secara manual di aktivitas, atau Anda juga dapat menekan 'CTRL+ALT+T' untuk melihat jendela terminal.</p><hr>

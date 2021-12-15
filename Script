@@ -4,7 +4,7 @@ Instal Wireshark di Ubuntu 20.04
 [STEP-1] Pertama-tama, Buka terminal dengan mencarinya secara manual di aktivitas, atau Anda juga dapat menekan 'CTRL+ALT+T' untuk melihat jendela terminal.
 [STEP-2] Sekarang perbarui daftar paket.
 $ sudo apt-get update -y
-<p>Masukkan kata sandi Anda untuk mengizinkan pembaruan paket.
+Masukkan kata sandi Anda untuk mengizinkan pembaruan paket.
 [STEP-3] Gunakan repositori untuk menginstal Wireshark.
 [STEP-4]$ apt-get install wireshark
 

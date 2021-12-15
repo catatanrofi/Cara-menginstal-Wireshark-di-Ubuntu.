@@ -8,7 +8,7 @@ Masukkan kata sandi Anda untuk mengizinkan pembaruan paket.
 [STEP-3] Gunakan repositori untuk menginstal Wireshark.
 [STEP-4]$ apt-get install wireshark
 
-Mengkonfigurasi Wireshark di Ubuntu 20.04</h3>
+Mengkonfigurasi Wireshark di Ubuntu 20.04
 
 [STEP-1] Pilih opsi 'yes' untuk mengizinkan non-pengguna super menangkap paket.
 [STEP-2] Verifikasi keberadaan Wireshark dengan menggunakan perintah yang diberikan di bawah ini.
